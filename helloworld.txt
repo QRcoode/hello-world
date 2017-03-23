@@ -20,7 +20,10 @@ Hello world!
 Hello world!
 wtfffff
 wtfffff
+<<<<<<< HEAD
 wtfffff
 wtfffff
 wtfffff
+=======
+>>>>>>> c29cd97972702c57449b644a2c799b03d61e0bf3
 wtfffff

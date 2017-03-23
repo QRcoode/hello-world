@@ -25,6 +25,7 @@ Hello world!
 Hello world!
 Hello world!
 Hello world!
+<<<<<<< HEAD
 Hello world!
 
 Hello world!
@@ -32,4 +33,6 @@ Hello world!
 Hello world!
 Hello world!
 Hello world!
+=======
+>>>>>>> master
 Hello world!
